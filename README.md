@@ -17,9 +17,9 @@ Em navegadores normais, as páginas web geralmente rodam em um ambiente de área
 
 ## Electronjs com React
 
-https://github.com/electron-react-boilerplate/electron-react-boilerplate
-https://getstream.io/blog/takeaways-on-building-a-react-based-app-with-electron/
-https://medium.freecodecamp.org/building-an-electron-application-with-create-react-app-97945861647c
+https://github.com/electron-react-boilerplate/electron-react-boilerplate <br>
+https://getstream.io/blog/takeaways-on-building-a-react-based-app-with-electron/ <br>
+https://medium.freecodecamp.org/building-an-electron-application-with-create-react-app-97945861647c <br>
 
 ## To Use
 
