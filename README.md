@@ -13,7 +13,8 @@ Como o Electron usa o Chromium para a apresentação de páginas web, a arquitet
 Em navegadores normais, as páginas web geralmente rodam em um ambiente de área restrita e não têm a permissão de acessar recursos nativos. Usuários do Electron, por outro lado, têm o poder de usar as APIs do Node.js em páginas web, permitindo interações de baixo nível com o sistema operacional.
 
 [Escrevendo Seu Primeiro Aplicativo com Electron
-](https://electronjs.org/docs/tutorial/first-app)
+](https://electronjs.org/docs/tutorial/first-app) <br>
+[Desenvolvendo aplicações desktop com Electron](https://medium.com/thdesenvolvedores/desenvolvendo-aplicacoes-desktop-electron-javascript-350393d40d0)
 
 ## Electronjs com React
 
